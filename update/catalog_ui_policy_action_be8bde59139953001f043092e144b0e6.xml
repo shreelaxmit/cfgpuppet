@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="AppInstallerPuppet">668bde59139953001f043092e144b0bb</catalog_item>
+        <catalog_variable>IO:7e8bde59139953001f043092e144b0db</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-05 10:15:29</sys_created_on>
+        <sys_id>be8bde59139953001f043092e144b0e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cloudTaskWorkflowInput</sys_name>
+        <sys_package display_value="cfgpuppet" source="x_snc_cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_be8bde59139953001f043092e144b0e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-05 10:15:29</sys_updated_on>
+        <table/>
+        <ui_policy display_value="AppInstallerPuppet UI policy">768bde59139953001f043092e144b0e4</ui_policy>
+        <variable>cloudTaskWorkflowInput</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="model_number" label="Model number" language="en" table="x_snc_cfgpuppet_u_cmdb_ci_puppet_enterprise_environment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>model_number</element>
+            <help/>
+            <hint/>
+            <label>Model number</label>
+            <language>en</language>
+            <name>x_snc_cfgpuppet_u_cmdb_ci_puppet_enterprise_environment</name>
+            <plural>Model numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 09:37:10</sys_created_on>
+            <sys_id>61c25e5d135953001f043092e144b07a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Model number</sys_name>
+            <sys_package display_value="cfgpuppet" source="x_snc_cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cfgpuppet_u_cmdb_ci_puppet_enterprise_environment_model_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 09:37:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

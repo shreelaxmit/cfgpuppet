@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_capi_config_overrides">
+    <sn_capi_config_overrides action="INSERT_OR_UPDATE">
+        <cloud_api display_value="Puppet Enterprise Configuration API">efe98219135953001f043092e144b06d</cloud_api>
+        <config_parameter display_value="Endpoint">747489240b232200f353c9bf15673a70</config_parameter>
+        <override_value>$(CfgMgmtCredential.URL)</override_value>
+        <sys_class_name>sn_capi_config_overrides</sys_class_name>
+        <sys_created_by>devaraj.sundararajan@snc</sys_created_by>
+        <sys_created_on>2018-04-06 05:47:22</sys_created_on>
+        <sys_id>85b76ea9135593001f043092e144b0e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>$(CfgMgmtCredential.URL)</sys_name>
+        <sys_package display_value="cfgpuppet" source="x_snc_cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_scope>
+        <sys_update_name>sn_capi_config_overrides_85b76ea9135593001f043092e144b0e9</sys_update_name>
+        <sys_updated_by>devaraj.sundararajan@snc</sys_updated_by>
+        <sys_updated_on>2018-04-06 05:47:22</sys_updated_on>
+    </sn_capi_config_overrides>
+</record_update>

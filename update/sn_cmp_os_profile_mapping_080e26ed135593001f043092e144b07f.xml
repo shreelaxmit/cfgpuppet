@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_os_profile_mapping">
+    <sn_cmp_os_profile_mapping action="INSERT_OR_UPDATE">
+        <cloud_account display_value="Vmware Cloud Account">fbbd16d9139953001f043092e144b0e9</cloud_account>
+        <location display_value="devcloud">1539a651dbd15300e516b3d0ef961935</location>
+        <price/>
+        <profile display_value="Ubuntu">dfdde2ed135593001f043092e144b00d</profile>
+        <sys_class_name>sn_cmp_os_profile_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-06 06:14:49</sys_created_on>
+        <sys_id>080e26ed135593001f043092e144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="cfgpuppet" source="x_snc_cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_scope>
+        <sys_update_name>sn_cmp_os_profile_mapping_080e26ed135593001f043092e144b07f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-06 06:14:49</sys_updated_on>
+        <template display_value="ubuntu14">ca696a51dbd15300e516b3d0ef9619b3</template>
+    </sn_cmp_os_profile_mapping>
+</record_update>

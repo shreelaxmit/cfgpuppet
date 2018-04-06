@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="AppInstallerPuppet Resource Interface">0baa5e19139953001f043092e144b009</interface>
+        <operation display_value="ModifySchedule">a0ba5e19139953001f043092e144b0f5</operation>
+        <operation_output_attributes/>
+        <resource display_value="AppInstallerPuppet Blueprint Resource">13aa5e19139953001f043092e144b018</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-05 10:11:46</sys_created_on>
+        <sys_id>a4ba5e19139953001f043092e144b0f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a0ba5e19139953001f043092e144b0f5</sys_name>
+        <sys_package display_value="cfgpuppet" source="x_snc_cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet">b7bff5d9131953001f043092e144b0e7</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_a4ba5e19139953001f043092e144b0f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-05 10:11:46</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>
